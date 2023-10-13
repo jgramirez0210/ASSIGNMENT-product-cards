@@ -1,0 +1,9 @@
+.card {
+  border: 1px solid blue;
+  display: flex;
+  flex-direction: row;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
