@@ -8,6 +8,6 @@
   flex-wrap: wrap;
 }
 .block-element {
+  direction: rtl;
   display: inline-block;
-  margin-right: 2px;
 }

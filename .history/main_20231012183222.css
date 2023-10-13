@@ -7,7 +7,4 @@
   display: flex;
   flex-wrap: wrap;
 }
-.block-element {
-  display: inline-block;
-  margin-right: 2px;
-}
+.block

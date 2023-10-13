@@ -1,0 +1,7 @@
+.card {
+  border: 1px solid blue;
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: co;
+ 
+}

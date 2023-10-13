@@ -1,0 +1,9 @@
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 300px;
+}
+h2 {
+  border: 1px solid blue;
+}
