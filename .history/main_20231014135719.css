@@ -25,9 +25,4 @@ h3 {
   width: 200px; 
   height: 150px;
 }
-.availability {
-  background-color:gray;
-  color: yellow;
-  display: block;
-  width: 100%;
-}
+.availability
