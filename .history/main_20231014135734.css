@@ -26,8 +26,5 @@ h3 {
   height: 150px;
 }
 .availability {
-  background-color:gray;
-  color: yellow;
-  display: block;
-  width: 100%;
+  background-color:darkgray
 }
